@@ -1,4 +1,3 @@
 ## Teclado Musical
-```
-[Página]](https://lucasdauto.github.io/teclado/)
-```
+
+Veja o teclado [clique aqui](https://lucasdauto.github.io/teclado/)
